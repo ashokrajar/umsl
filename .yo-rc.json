@@ -1,0 +1,40 @@
+{
+  "generator-jhipster": {
+    "applicationType": "microservice",
+    "gitCompany": "",
+    "baseName": "UMSL",
+    "packageName": "com.futureairlies.casestudy",
+    "packageFolder": "com/futureairlies/casestudy",
+    "serverPort": 8081,
+    "serviceDiscoveryType": false,
+    "authenticationType": "jwt",
+    "uaaBaseName": "../uaa",
+    "cacheProvider": "no",
+    "enableHibernateCache": false,
+    "websocket": false,
+    "databaseType": "no",
+    "devDatabaseType": "no",
+    "prodDatabaseType": "no",
+    "searchEngine": false,
+    "enableSwaggerCodegen": false,
+    "messageBroker": false,
+    "buildTool": "maven",
+    "useSass": false,
+    "clientPackageManager": "npm",
+    "testFrameworks": [],
+    "enableTranslation": false,
+    "nativeLanguage": "en",
+    "languages": [
+      "en"
+    ],
+    "clientFramework": "angularX",
+    "jhiPrefix": "jhi",
+    "jhipsterVersion": "6.1.1",
+    "jwtSecretKey": "NDc1ZWIwZTQ5MmMwZGRhNTZkNjkzMmFhNWI4YzBhZjU0NWM5MjY1YzM1NzU5MDAxNjdlOTAzMzhlZGFjZWMzZTQyODAyNTVjYjc2ZWY2NTgwYzg5ZWEwZmRlYzQxMWY3ZWMxMWNlOGE3ZTBjN2E4MmMwYTQyZTY1MDM5YzdkMjM=",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "skipClient": true,
+    "skipUserManagement": true
+  }
+}
