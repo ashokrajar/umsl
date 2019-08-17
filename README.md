@@ -16,6 +16,13 @@ For further instructions on how to develop with JHipster, have a look at [Using 
 
 ## Building for production
 
+### Docker/K8 deployment
+
+To create a docker container and upload to Amazon ECR
+
+    ./build.sh -p
+    ./build.sh # to only build containers locally
+
 ### Packaging as jar
 
 To build the final jar and optimize the UMSL application for production, run:
